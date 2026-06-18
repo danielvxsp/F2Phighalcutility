@@ -1,3 +1,5 @@
+package com.ninog.highalc;
+
 public class AlchItem {
     public final String id;
     public final String name;

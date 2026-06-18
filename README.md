@@ -10,3 +10,9 @@ you should mark it to start the timer right after setting the order
 
 for now this only supports F2P items since i dont see myself looking for items 
 to highalc once i get members any time soon and its a lot easier to handle with the smaller item pool
+
+for windows:  
+just install the zip, extract it and run the precompiled exe
+
+for linux:  
+i included the .jar file and im sure you know what youre doing

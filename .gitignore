@@ -3,6 +3,7 @@
 bin/
 out/
 build/
+exe/
 
 # Package Files (Ignore generated executables)
 *.jar
@@ -23,11 +24,3 @@ build/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# IDE and Editor files (In case you or someone else opens this in VS Code, IntelliJ, or Eclipse)
-.idea/
-*.iml
-.vscode/
-.settings/
-.classpath
-.project
