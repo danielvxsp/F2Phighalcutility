@@ -13,8 +13,6 @@ exe/
 *.tar.gz
 
 # EXCEPTION: Do NOT ignore the library folder. 
-# Since you aren't using Maven, you want to upload the Gson jar so anyone 
-# who clones your repo can actually run it without hunting for the library.
 !lib/*.jar
 
 # OS generated files (Hidden files created by Mac/Windows)
