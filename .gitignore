@@ -1,0 +1,33 @@
+# Compiled Java class files (These are generated locally, don't upload them)
+*.class
+bin/
+out/
+build/
+
+# Package Files (Ignore generated executables)
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# EXCEPTION: Do NOT ignore the library folder. 
+# Since you aren't using Maven, you want to upload the Gson jar so anyone 
+# who clones your repo can actually run it without hunting for the library.
+!lib/*.jar
+
+# OS generated files (Hidden files created by Mac/Windows)
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files (In case you or someone else opens this in VS Code, IntelliJ, or Eclipse)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
