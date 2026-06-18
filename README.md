@@ -1,3 +1,7 @@
+
+![application preview](/images/showcase/2026-06-18-232152_1280x1024_scrot.png)
+
+
 a project to help with high alcing in osrs that i had unfinished for a while. 
 i finished it up with some help from gemini so ill be cleaning the AI slop up as i develop it more
 
